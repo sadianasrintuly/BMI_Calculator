@@ -1,3 +1,3 @@
-# fourthhw
-![GitHub Logo](images/4th Hw-1.png)
-![GitHub Logo](images/4th Hw-2.png)
+# BMI_Calculator
+![GitHub Logo](images/BMI1stPage.png)
+![GitHub Logo](images/BMI2ndPage.png)
