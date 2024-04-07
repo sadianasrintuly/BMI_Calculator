@@ -11,7 +11,7 @@
     }
 
     .image {
-        width: 400px; /* Adjust the width as needed */
+        width: 150px; /* Adjust the width as needed */
         height: auto; /* Maintain aspect ratio */
         margin-right: 20px; /* Adjust spacing between images */
     }
